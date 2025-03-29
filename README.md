@@ -115,7 +115,6 @@ Inter-Sign_Interpreter/
 ## Features
  
 - Sign language video upload
-- Real-time interpretation
 - Multi-language support (English, Portuguese, Spanish)
 - User-friendly interface
 - Video playback controls
